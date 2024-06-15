@@ -1,4 +1,5 @@
-Makaleye [buradan]([https://www.csharpegitimi.com.tr/2024/06/csharp-selenium-elment-text-secme.html]) ulaşabilirsiniz.
+Makaleye [buradan](https://www.csharpegitimi.com.tr/2024/06/csharp-selenium-elment-text-secme.html) ulaşabilirsiniz.
+
 # EBSSeleniumMetinSecme
 
 **Proje Adı:** EBSSeleniumMetinSecme
@@ -28,7 +29,7 @@ Makaleye [buradan]([https://www.csharpegitimi.com.tr/2024/06/csharp-selenium-elm
    ```sh
    git clone https://github.com/kullaniciadi/EBSSeleniumMetinSecme.git
    ```
-2. ChromeDriver'ı [buradan]([https://sites.google.com/a/chromium.org/chromedriver/downloads](https://www.nuget.org/packages/Selenium.WebDriver)) indirin ve bilgisayarınıza kurun.
+2. ChromeDriver'ı [buradan](https://www.nuget.org/packages/Selenium.WebDriver) indirin ve bilgisayarınıza kurun.
 3. ChromeDriver'ın yolunu belirtin:
    ```csharp
    IWebDriver driver = new ChromeDriver("chromeDriverPath");
