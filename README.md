@@ -5,7 +5,7 @@
 **Açıklama:** Bu proje, Selenium WebDriver kullanarak belirli bir web sayfasındaki metni seçip kopyalamayı sağlayan bir Windows Forms uygulamasıdır. Kullanıcılar, uygulama aracılığıyla bir web sayfasındaki belirli bir div elementindeki metni kopyalayıp, uygulama içinde görüntüleyebilirler.
 
 ## Özellikler
-- **Web Sayfasına Erişim:** Kullanıcı, uygulama aracılığıyla belirli bir URL'ye (örneğin, "https://x.com/_shadowintel_") yönlendirilir.
+- **Web Sayfasına Erişim:** Kullanıcı, uygulama aracılığıyla belirli bir URL'ye (örneğin, "https://x.com/ebubekirstt") yönlendirilir.
 - **Metin Seçme:** Belirtilen bir div elementindeki metin, JavaScript kullanılarak seçilir.
 - **Metin Kopyalama:** Seçilen metin, Selenium WebDriver ve Actions sınıfı kullanılarak panoya kopyalanır.
 - **Metni Görüntüleme:** Panodan alınan metin, uygulama içindeki bir RichTextBox kontrolünde görüntülenir.
