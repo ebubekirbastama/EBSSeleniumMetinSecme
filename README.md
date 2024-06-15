@@ -1,3 +1,4 @@
+Makaleye [buradan]([https://www.csharpegitimi.com.tr/2024/06/csharp-selenium-elment-text-secme.html]) ulaşabilirsiniz.
 # EBSSeleniumMetinSecme
 
 **Proje Adı:** EBSSeleniumMetinSecme
