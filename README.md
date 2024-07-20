@@ -27,7 +27,7 @@ Makaleye [buradan](https://www.csharpegitimi.com.tr/2024/06/csharp-selenium-elme
 ## Kurulum ve Kullanım
 1. Projeyi bilgisayarınıza klonlayın veya indirin:
    ```sh
-   git clone https://github.com/kullaniciadi/EBSSeleniumMetinSecme.git
+   git clone https://github.com/ebubekirbastama/EBSSeleniumMetinSecme.git
    ```
 2. ChromeDriver'ı [buradan](https://www.nuget.org/packages/Selenium.WebDriver) indirin ve bilgisayarınıza kurun.
 3. ChromeDriver'ın yolunu belirtin:
